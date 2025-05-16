@@ -1,0 +1,1 @@
+# analise_de_disponibilidade_vagas_moveis
